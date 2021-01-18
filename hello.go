@@ -10,5 +10,6 @@ func main() {
 
 	fmt.Println("hello world")
 	fmt.Println("change")
+	fmt.Println("jenkins niubi")
 
 }
